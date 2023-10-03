@@ -1738,7 +1738,7 @@ height: 100%;
     }
     
     .header-left {
-        margin-right: calc(150px + (450 - 150)*((100vw - 320px) / (1920 - 320)));
+        margin-right: calc(30px + (450 - 30)*((100vw - 320px) / (1920 - 450)));
     }
     .header-left_logo {
         margin-right: 64px;
